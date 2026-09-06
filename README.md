@@ -1,1 +1,1 @@
-# mern-stack-practice
+# mern-stack-practice projects
